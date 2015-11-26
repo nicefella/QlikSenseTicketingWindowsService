@@ -1,0 +1,11 @@
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe.config
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.pdb
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\Newtonsoft.Json.pdb
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\obj\x86\Debug\QSTicketingWindowsService.ProjectInstaller.resources
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\obj\x86\Debug\QSTicketingWindowsService.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\obj\x86\Debug\QSTicketingWindowsService.exe
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\obj\x86\Debug\QSTicketingWindowsService.pdb
+E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\obj\x86\Debug\QSTicketingWindowsService.csprojResolveAssemblyReference.cache

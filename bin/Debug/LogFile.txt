@@ -1,0 +1,8 @@
+16.11.2015 15:42:10: Service successfully started.
+17.11.2015 10:29:42: Service successfully started.
+20.11.2015 09:42:20: Service successfully started.
+20.11.2015 10:34:21: Service successfully started.
+20.11.2015 11:59:46: Service successfully started.
+20.11.2015 12:01:15: kerem123ACCESSDBismail-nb.bistratejik.localdotnet
+20.11.2015 12:01:16: {"UserDirectory":"ACCESSDB","UserId":"kerem","Attributes":[],"Ticket":"tIvYXAshuzWgYeS4","TargetUri":null}
+26.11.2015 11:03:19: Service successfully started.

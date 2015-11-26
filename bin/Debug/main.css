@@ -1,0 +1,20 @@
+   body
+    {
+		margin-left: 200px;
+		margin-top: 100px;
+		width: 960px;
+		height: 768px;
+        font-family: 'QlikView Sans';
+        font-size: 1.0em;
+    }
+
+
+    .wrapper {
+    width:100%;
+    padding: 4px;
+    background-color: #ff0000;
+    }
+
+
+
+    .form-row {clear: both; padding: 4px; margin: 4px;}

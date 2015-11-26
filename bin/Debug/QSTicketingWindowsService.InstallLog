@@ -1,0 +1,217 @@
+﻿Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Attempt to stop service Qlik Sense Ticketing Service.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Attempt to stop service Qlik Sense Ticketing Service.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Attempt to stop service Qlik Sense Ticketing Service.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticketing Service...
+Service Qlik Sense Ticketing Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticketing Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Service Qlik Sense Ticketing Service is being removed from the system...
+Service Qlik Sense Ticketing Service was successfully removed from the system.
+Attempt to stop service Qlik Sense Ticketing Service.
+Uninstalling assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Removing EventLog source Qlik Sense Ticketing Service.
+Warning: The source Qlik Sense Ticketing Service is not registered on the local machine.
+Service Qlik Sense Ticketing Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
+Installing service Qlik Sense Ticket Authentication Service...
+Service Qlik Sense Ticket Authentication Service has been successfully installed.
+Creating EventLog source Qlik Sense Ticket Authentication Service in log Application...
+Committing assembly 'E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.InstallLog
+   assemblypath = E:\Dropbox\Dropbox\Apps\ASP.NET\QSTicketingWindowsService\QSTicketingWindowsService\bin\Debug\QSTicketingWindowsService.exe
